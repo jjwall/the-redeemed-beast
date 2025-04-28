@@ -12,9 +12,9 @@ github:
   license:
     name: MIT
   source:
-    branch: "master"
+    branch: "main"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: "https://github.com/jjwall/the-redeemed-beast"
   
-title: Jekyll Theme Primer
-description: Primer is a Jekyll theme for GitHub Pages
+title: The Redeemed Beast
+# description: Primer is a Jekyll theme for GitHub Pages
