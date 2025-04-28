@@ -2,3 +2,7 @@
 ---
 
 @import "jekyll-theme-primer";
+footer {
+  position: absolute;
+  visibility: hidden;
+}
