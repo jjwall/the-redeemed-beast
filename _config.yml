@@ -3,9 +3,9 @@
 #
 title: The Redeemed Beast
 
-author:
-  name: Jake Wallace
-  email: jake@peligrolabs.com
+# author:
+#   name: Jake Wallace
+#   email: testå
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -86,4 +86,4 @@ minima:
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-  hide_site_feed_link: true
+  hide_site_feed_link: false
