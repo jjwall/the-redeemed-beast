@@ -17,7 +17,7 @@ description: Copyright © 2025 Jake Wallace
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-theme: minima
+theme: jekyll/minima # minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
