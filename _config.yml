@@ -3,9 +3,9 @@
 #
 title: The Redeemed Beast
 
-# author:
-#   name: Copyright © 2025 Jake Wallace
-#   email: test
+author:
+  name: Test # Copyright © 2025 Jake Wallace
+  email: Test
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
